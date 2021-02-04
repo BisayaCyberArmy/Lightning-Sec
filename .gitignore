@@ -1,49 +1,49 @@
-# http://www.gnu.org/software/automake
 
-Makefile.in
-/ar-lib
-/mdate-sh
-/py-compile
-/test-driver
-/ylwrap
 
-# http://www.gnu.org/software/autoconf
+<!-- saved from url=(0071)file:///C:/Users/Administrator/Downloads/Long%20Texts%20%234%20(1).html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>HacKeD by Lightning Sec </title>
+<style>
+body { 
+  background: #000; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+.title1{
+  font-family: sans-serif;
+  font-size: 30px;
+  color:white;
+}
+.text{
+  font-family: Tahoma;
+  font-size: 20px;
+  color:grey;
+}
+.text:hover{
+  font-family: Tahoma;
+  font-size: 21px;
+  color:white;
+}
 
-autom4te.cache
-/autoscan.log
-/autoscan-*.log
-/aclocal.m4
-/compile
-/config.guess
-/config.h.in
-/config.log
-/config.status
-/config.sub
-/configure
-/configure.scan
-/depcomp
-/install-sh
-/missing
-/stamp-h1
 
-# https://www.gnu.org/software/libtool/
 
-/ltmain.sh
+}</style>
+</head>
+<body><center>
+<!--?<table width=100% height=100%--><br>
+<a href="http://4.bp.blogspot.com/-zMz7_Iw-mRs/UvLr5yrBbWI/AAAAAAAAAvY/R__OYfE_olM/s1600/anonymous-logo-by-viperaviator-on-deviantart-dp7ttwd0.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="./HacKeD by Lightning Sec_files/142342522_203464651471405_8433101522771654305_n.jpg" height="312" width="320"></a><br><br>
+<div class="title1"><strong>YOUR WEBSITE.</strong></div>
+<div class="title1"><strong>HAS BEEN HACKED.</strong></div><br><br>
+<div class="text">Hi admin, your website has been hacked, and</div>
+<div class="text">I want to help you, if you are ready</div>
+<div class="text">please read the file info.txt in your site</div>
+<div class="text">to know what is your vulnerability and</div>
+<div class="text">how to fix this.</div>
+ <div id="bar" style="position: fixed; width: 100%; bottom: 0px; font-family: Tahoma; height: 20px; color: white; font-size: 13px; left: 0px; border-top: 1px solid #000; padding: 5px; background-color: #000"> 
+<center> WE DO NOT FORGET &#9679; WE DO NOT FORGIVE &#9679; EXPECT US </center></div>
 
-# http://www.gnu.org/software/texinfo
-
-/texinfo.tex
-
-# http://www.gnu.org/software/m4/
-
-m4/libtool.m4
-m4/ltoptions.m4
-m4/ltsugar.m4
-m4/ltversion.m4
-m4/lt~obsolete.m4
-
-# Generated Makefile 
-# (meta build system like autotools, 
-# can automatically generate from config.status script
-# (which is called by configure script))
-Makefile
+                           Lihtning Sec
+</center></body></html
